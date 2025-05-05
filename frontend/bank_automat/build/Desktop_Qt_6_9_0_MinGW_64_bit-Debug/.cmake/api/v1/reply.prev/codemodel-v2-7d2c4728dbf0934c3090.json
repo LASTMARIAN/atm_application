@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-699a70168770c78d2d74.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RfidScanner",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RfidScanner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RfidScanner-Debug-121634e35120c24c8ba7.json",
+					"name" : "RfidScanner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RfidScanner_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RfidScanner_autogen-Debug-30e695a4db92bddcd4a6.json",
+					"name" : "RfidScanner_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RfidScanner_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RfidScanner_autogen_timestamp_deps-Debug-6633b9e0e5b1199da1ca.json",
+					"name" : "RfidScanner_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chere/L19/frontend/bank_automat/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/chere/L19/frontend/bank_automat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
